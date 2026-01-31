@@ -11,6 +11,8 @@ DURATION:4 WEEKS
 
 MENTOR:NEELA SANTOSH
 
+<img width="1260" height="660" alt="Image" src="https://github.com/user-attachments/assets/09f01a0d-95f9-4912-bf75-0e4dc2f7e6d0" />
+
 *DESCRIPTON* :The Real-Time Chat Application is a front-end web project designed to demonstrate instant communication between users using real-time technologies. The main purpose of this application is to allow users to send and receive messages instantly, creating a live and interactive chatting experience. Such applications are widely used in messaging platforms, customer support systems, team collaboration tools, and social networking websites.
 
 This chat application includes features such as real-time messaging, message history, emoji picker, typing indicators, and a responsive chat interface. Real-time messaging is implemented using WebSocket technology, which enables continuous communication between the client and server without refreshing the page. Message history is stored using localStorage, allowing users to view previous conversations even after refreshing the page. The emoji picker enhances user interaction by allowing expressive communication.
